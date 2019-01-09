@@ -42,13 +42,23 @@ SOFTWARE
 
 2. OpenCV
 
+https://docs.opencv.org/4.0.0/d7/d9f/tutorial_linux_install.html
+
 3. PCL
+
+https://github.com/PointCloudLibrary/pcl
 
 4. GTSAM
 
+https://bitbucket.org/gtborg/gtsam/
+
 5. G2O
 
+https://github.com/RainerKuemmerle/g2o
+
 6. ceres
+
+
 
 8. k-vim
 
