@@ -28,6 +28,12 @@ https://pinyin.sogou.com/linux/help.php
 
 8. install VSCode
 
+9. install teamviewer
+
+10. install pip
+
+sudo apt-get install python-pip
+
 
 
 SOFTWARE
