@@ -10,9 +10,9 @@ https://blog.csdn.net/haluoluo211/article/details/70231109
 
 https://jingyan.baidu.com/article/335530da98061b19cb41c31d.html
 
-4. install vim, terminator, exfat-utils
+4. install vim, terminator, exfat-utils, byobu
 
-sudo apt-get install vim, terminator
+sudo apt-get install vim, terminator, exfat-utils, byobu
 
 5. install peek
 
